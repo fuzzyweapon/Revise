@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/fuzzyweapon/revise.png?label=ready&title=Ready)](https://waffle.io/fuzzyweapon/revise)
 Revise
 ======
 A Minecraft book editor<br/>
